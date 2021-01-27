@@ -20,9 +20,9 @@ git clone https://github.com/immersal/demo-app-2021.git
 ```
 git clone https://github.com/immersal/arcloud-sdk-samples.git
 ```
-Copy the Assets/ImmersalSDK folder from arcloud-sdk-samples under demo-app-2021/Assets/.
-2. Download our Unity Plugin (`ImmersalSDKvX_X_X.unitypackage`) from [here](https://developers.immersal.com/)
-3. Launch Unity, click on **Open Project**, navigate to the `demo-app-2021` folder on your computer and press Apply/OK.
-4. Click on **Assets -> Import Package -> Custom Package** and load the `ImmersalSDKvX_X_X.unitypackage`.
+2. Copy the Assets/ImmersalSDK folder from arcloud-sdk-samples under demo-app-2021/Assets/.
+3. Download our Unity Plugin (`ImmersalSDKvX_X_X.unitypackage`) from [here](https://developers.immersal.com/)
+4. Launch Unity, click on **Open Project**, navigate to the `demo-app-2021` folder on your computer and press Apply/OK.
+5. Click on **Assets -> Import Package -> Custom Package** and load the `ImmersalSDKvX_X_X.unitypackage`.
 
 Please visit our [Developer Documentation](https://developers.immersal.com/docs/ "SDK Documentation") for more detailed instructions as to how to use the Immersal SDK.
