@@ -3,7 +3,7 @@ This repository contains a reference demo app using the Immersal SDK and Back4Ap
 
 This sample code can be used as a basis for a more complicated AR project using the Immersal SDK.
 
-# Compatibility
+# Compatibility (tested)
 
 - Unity 2019.4 LTS
 - AR Foundation 4
