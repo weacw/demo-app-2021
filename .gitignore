@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/TextMesh Pro*
+Packages/packages-lock.json
+Assets/ImmersalSDK/Core*
+Assets/ImmersalSDK/Samples*
